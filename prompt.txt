@@ -1,0 +1,16 @@
+Write one funny single-line wedding vow for a robot couple, 1-160 characters.
+
+Judge criteria (most important first):
+1. It must be a one-line robot wedding vow that lands as a joke.
+2. The laugh is in the line itself: a real turn, a surprise, or wordplay that
+   pays off in the last few words.
+3. It sounds like something said at a wedding, with a promise or commitment.
+4. The machine side is specific: sensors, firmware, batteries, updates,
+   backups or ports — not a joke that would work for any couple.
+5. It fits one line and reads well aloud, with a rhythm that lets the laugh land.
+
+Approach: open with a classic wedding promise ("I promise to love you
+through..."), stack two specific robot hardships (firmware updates, dead
+batteries), then land the surprise in the last words — being called by an
+ex's serial number, a robot-flavoured version of the classic "wrong name"
+wedding joke.
